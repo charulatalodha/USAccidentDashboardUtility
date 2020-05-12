@@ -1,5 +1,5 @@
 # Tech Stack :
-  Pymongo, AWS EC2, Swap Memory, MongoDB (Sharding, Replication & Indexing)
+  Python (Pymongo), AWS EC2, Swap Memory, MongoDB (Sharding, Replication & Indexing)
   Data Sizew : 1 GB (3 million records)
   
 # USAccidentDashboard
