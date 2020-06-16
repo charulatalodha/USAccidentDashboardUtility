@@ -1,6 +1,7 @@
 # Tech Stack :
   Python (Pymongo), AWS EC2, Swap Memory, MongoDB (Sharding, Replication & Indexing)
-  Data Sizew : 1 GB (3 million records)
+
+  Data Size : 1 GB (3 million records)
   
 # USAccidentDashboard
 The U.S. Accident Analysis Dashboard is a utility tool that helps to store and understand trends in road
