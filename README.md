@@ -1,5 +1,7 @@
 Title : US Accident Reporting & Analysis Dashboard
+
 • Created a shared MongoDB database cluster of 3 nodes on 3 EC2; each node configured as a 3-replica set for High Availability.
+
 • Created multi key index; sharded 1M data; Map Reduce & Aggregation queries employed; Python menu driven application
 
 # Tech Stack :
